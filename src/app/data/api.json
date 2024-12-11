@@ -1,0 +1,68 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Juan Pérez",
+      "localidad": "sevilla",
+      "fecha_nacimiento": "2000-05-17",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "María López",
+      "localidad": "Cordoba",
+      "fecha_nacimiento": 20.12,
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    },
+    {
+      "id": "3",
+      "nombre": "Carlos Gómez",
+      "localidad": "lucena",
+      "fecha_nacimiento": "2001-11-10",
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    },
+    {
+      "id": "2f3f",
+      "nombre": "Ana Ruano Ruiznn",
+      "localidad": "Montilla",
+      "fecha_nacimiento": "2024-12-14"
+    },
+    {
+      "id": "fa2a",
+      "nombre": "cascos",
+      "localidad": "La Rambla",
+      "fecha_nacimiento": "2024-12-08"
+    },
+    {
+      "id": "9dd3",
+      "nombre": "ana",
+      "localidad": "Montilla",
+      "fecha_nacimiento": "2024-12-01"
+    }
+  ],
+  "profesores": [
+    {
+      "nombre": "ana",
+      "especialidad": "sociales",
+      "estado_civil": "casado",
+      "id": "06a9"
+    },
+    {
+      "id": "20bb",
+      "nombre": "ana",
+      "localidad": "Montilla",
+      "fecha_nacimiento": "2024-12-07"
+    },
+    {
+      "nombre": "jesus",
+      "especialidad": "informatico",
+      "estado_civil": "soltero",
+      "id": "28cb"
+    },
+    {
+      "id": "93f7",
+      "nombre": "aaa",
+      "especialidad": "sda",
+      "estado_civil": "soltero"
+    }
+  ]
+}
